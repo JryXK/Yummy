@@ -1,0 +1,73 @@
+.container-top{
+	padding:20px 0 0 40px;
+	display: block;
+}
+.img-posterR{
+	margin: 10px 0 0 7%;
+	height: 330px;
+	width: 47%;
+	background-size: 100% 100%;
+	float: left;
+}
+.ant-progress-bg{
+	height: 20px !important;
+}
+.container-posterRTitle{
+	position: absolute;
+	width: 320px;
+	top: 340px;
+	background-color: #FFFFFF;
+	height: 115px;
+	opacity:0.5; 
+}
+.font-posterRTitle{
+	position: absolute;
+	width: 320px;
+	top: 360px;
+	text-align: center;
+	height: 115px;
+	padding: 0 20px;
+	font-size: 30px;
+	font-family: 'Arial Normal', 'Arial';
+	font-weight: 400;
+}
+.container-overallRate{
+	width:27%;
+	float:left;
+	margin-left: 5%;
+	text-align: center;
+}
+.container-overallRate .value{
+	line-height: 70px;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 85px;
+	color: rgb(112, 117, 122);
+}
+.container-overallRate .star{
+	color: red;
+	font-size: 25px;
+}
+.container-overallRate .numOfR{
+	font-size: 17px;
+	color: rgb(112, 117, 122);
+}
+.ant-card-meta-title{
+	font-size: 13px !important;
+	padding-bottom: 2px;
+}
+.ant-card-body{
+	padding: 0 !important;
+	text-align: center;
+}
+.font-like-dislike{
+	font-size:17px;
+	color:rgb(85, 85, 85);
+}
+.icon-like-dislike{
+	font-size:50px;
+	color: rgb(112, 117, 122) !important;
+}
+.icon-like-dislike:hover{
+	color: black !important;
+}

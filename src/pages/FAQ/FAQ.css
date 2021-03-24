@@ -1,0 +1,14 @@
+.header{
+    display: block;
+    position: relative;
+    left: 32%;
+    align-content: center;
+    justify-content: center!important;
+    max-width: 35%;
+}
+
+@media(min-width: 1200px){
+    .FAQ-container{
+        max-width: 1140px;
+    }
+}

@@ -1,0 +1,79 @@
+.promotion-banner {
+    text-align: center;
+    font-size: "24px";
+    color: #03960c;
+    background-color: #94ff00;
+    margin: 0;
+    width: 100%;
+}
+
+button{
+    border-radius: 4px;
+}
+
+.shadowed{
+    box-shadow: 2px 2px #888888;
+}
+
+.dashboard
+{
+  display: flex;
+  justify-content: space-around; 
+  margin-right: 40px;
+  margin-left:20px;
+}
+
+.add-promo-card{
+    width: 100%;
+    flex:1;
+}
+
+.add-promo-input{
+    color: black;
+}
+
+.post-content{
+	margin: 0 10% 20px 5%;
+}
+
+.add-promo-body{
+    background-color: #fff3ed   ;
+}
+
+.promotion-category-button{
+    width:100%;
+    font-size: 20px;
+    margin-bottom:10px;
+}
+
+.promotion-ticket-panel{
+    flex: 1
+}
+
+.promotion-button-group{
+    flex:1;
+}
+
+.promotion-nav{
+    bottom: 0;
+    flex-grow : 1;
+    height: 300px;  
+    min-width: 15%;
+    max-width: 20%;
+    font-size: 18px;
+    font-family: "News Cycle", "Arial Narrow Bold", sans-serif;
+    font-weight: 700;
+    flex-flow: column nowrap;
+    align-items: flex-start;
+    background-color: rgb(255,255,255) !important;    
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1030;
+}
+  
+@media(min-width: 600px){
+    .promotion-banner {
+        max-width: 100%;
+    }
+}

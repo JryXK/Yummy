@@ -1,0 +1,11 @@
+.font-labelNR{
+	height: 31px;
+	line-height: 31px;
+	text-align: right;
+}
+.size-inputNR{
+	margin-left: 20px;
+}
+.ant-form-item{
+	margin-bottom: 12px !important;
+}

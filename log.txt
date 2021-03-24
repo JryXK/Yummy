@@ -1,0 +1,352 @@
+commit 99253d517aa68075c2809c599007c6dd6515dfb5
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 18:27:01 2020 -0500
+
+    Fix bug in homepage className
+
+commit cb88c5271272b75a17d0e2abfa091f2e16b72065
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 18:25:28 2020 -0500
+
+    Fix bug in homepage css file
+
+commit b0517f37152777c8a74ce3f2f98b3c7e597dad1d
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 18:22:38 2020 -0500
+
+    Update homepage.css
+
+commit 791f8422a7e58998d5159821636fbac54bc176c1
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 18:22:09 2020 -0500
+
+    Add media for smaller resolution
+
+commit 59cede5d50ee513bb7f80e789fca3e512662d174
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 18:20:25 2020 -0500
+
+    Fix uneven layout on higher resolution
+
+commit 6058e4a450807a25859133c76fd45bad5547199f
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 17:16:02 2020 -0500
+
+    Fix bug for promotion alert message not right
+
+commit fe9e52f705120746aaaa6e6f9afd2b32cfd7d463
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 15:18:45 2020 -0500
+
+    Add one more FAQ
+
+commit c7e9aa5cefb340e354fd16958fe50179e1b9584b
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 15:09:17 2020 -0500
+
+    Bug fix
+
+commit 149f3c9224c7b21edbca27a33bc9d9f16b66faf5
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 14:31:33 2020 -0500
+
+    Remove space-around
+
+commit 611f3b791a58afd223bc4bf2d7f016166fc19683
+Author: unknown <wug13@mcmaster.ca>
+Date:   Mon Nov 16 03:14:02 2020 +0800
+
+    update data and menu page
+
+commit 8b491c7f4aaaaabb638cf3e428a0b739a09b3556
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 13:46:29 2020 -0500
+
+    Make thumbnail separate from poster
+
+commit 3ec4b711fb89b6b21c2a3999f39f4b95485e9be5
+Author: unknown <wug13@mcmaster.ca>
+Date:   Mon Nov 16 02:14:33 2020 +0800
+
+    update data and modify review page
+
+commit 6e2aa66963aeedaf0945e9729306dd86ddc3c4ee
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 13:09:54 2020 -0500
+
+    Fix bug that allow infinite addition of promo code
+
+commit 8b394803b82d6c5a4a6a29940fd36c348bdbc467
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 12:57:28 2020 -0500
+
+    Change thumbnail layout and default message in the search bar.
+
+commit 4089ded1537ef0325dd06b93adea2fe3938c73bd
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 12:57:06 2020 -0500
+
+    Edit footer icon distribution
+
+commit 347711ce02319a2ccbdaac7cccb92087f3182f14
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 12:42:35 2020 -0500
+
+    Finish implementing FAQ
+
+commit 12887a2a1556a32db99df65df604e0b435487118
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 12:42:13 2020 -0500
+
+    Add a few pictures
+
+commit e8d603d9b71cf27eab8548741d3ce7593ded301b
+Author: unknown <wug13@mcmaster.ca>
+Date:   Mon Nov 16 01:25:36 2020 +0800
+
+    upload some image data
+
+commit a68099b36d2ade56b1423585d6877f8ce345c86e
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 01:13:43 2020 -0500
+
+    Bug fix - inconsistent filters.
+
+commit a201f919dc3c13b616cb816d2343b8c4dffc68b0
+Author: unknown <wug13@mcmaster.ca>
+Date:   Sun Nov 15 14:03:50 2020 +0800
+
+    update menu page
+
+commit 538b1918dbd4991f2c136ed71e85974b30b75220
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 01:01:43 2020 -0500
+
+    Add dummy data for promotion.
+
+commit d53c468830f2951b3eec5252b01c360187b47c42
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 00:55:54 2020 -0500
+
+    Fix bug - second page require two clicks to load
+
+commit f759606f9e546ff614fd9bcbc1a8b6168eb57042
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 00:46:06 2020 -0500
+
+    Bug fixes - no second page
+
+commit 002ebee357d09070f862c04418cf95223a6e0114
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 00:32:15 2020 -0500
+
+    Changed default pictures for none state
+
+commit 8237a379d0f59d95af4fed130b74f21fbb05ad33
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sun Nov 15 00:24:23 2020 -0500
+
+    Add text overlay for restaurant thumbnail
+
+commit 185b3da404d32bdf2e3abb0c469e8eb6c6aec692
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sat Nov 14 23:12:57 2020 -0500
+
+    Finish implementing filter function for home page.
+    
+    Work done by both jerry and josh.
+
+commit 00fddfcbd5ab916329d573a2828fef636decc8a3
+Author: unknown <wug13@mcmaster.ca>
+Date:   Sun Nov 15 10:21:54 2020 +0800
+
+    update pagination
+
+commit be5fb94ae639a4ef2c315f156a073a488769bdf7
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sat Nov 14 21:03:04 2020 -0500
+
+    Modify min height for footer layout.
+
+commit 8c20977335bf47e00717a7d778f6f739dcd20a55
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sat Nov 14 20:44:23 2020 -0500
+
+    Implement website footer plus images.
+
+commit 1740a9e9d0acf6662625a5b8541e1161e5e3d084
+Merge: 0d2c668 6fd1f09
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sat Nov 14 20:43:42 2020 -0500
+
+    Merge branch 'main' of https://github.com/GuiyeWu/Yummy into main
+
+commit 6fd1f09bf2d21b553c437b82306f7ca48e261651
+Author: unknown <wug13@mcmaster.ca>
+Date:   Sun Nov 15 09:43:01 2020 +0800
+
+    add more data
+
+commit 0d2c6686b8acf71f4d6c1de750fce676832d61a7
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sat Nov 14 20:42:09 2020 -0500
+
+    Fix merge conflict
+
+commit 3dfbfcdccac33f8f288d3d4c7b221d891ff021f1
+Author: unknown <wug13@mcmaster.ca>
+Date:   Sun Nov 15 08:29:49 2020 +0800
+
+    fix some bugs
+
+commit b4f1e7e0acf119cb55136211bca5dea877175d1f
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sat Nov 14 19:11:59 2020 -0500
+
+    Finished frame of the home page.
+
+commit 1bc7ca661c7a60663aaed7544adbac606d7f0cb2
+Author: unknown <wug13@mcmaster.ca>
+Date:   Sun Nov 15 04:58:46 2020 +0800
+
+    update promotion css
+
+commit 3c52bc41ad0bd476b44ded555126a62db3879545
+Merge: e78c26e 53e7342
+Author: unknown <wug13@mcmaster.ca>
+Date:   Sun Nov 15 04:14:32 2020 +0800
+
+    Merge branch 'main' of https://github.com/GuiyeWu/Yummy into main
+
+commit e78c26e2a52f3ed04e58b2aa8e2207b03aef00c0
+Author: unknown <wug13@mcmaster.ca>
+Date:   Sun Nov 15 04:12:53 2020 +0800
+
+    resolve conflict
+
+commit 53e734220d03df197b751c950e825607239bdb0a
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sat Nov 14 15:08:32 2020 -0500
+
+    Finish Implementation of add promo function.
+
+commit 203f371ca079e9a52baa75b91ea6095edec30146
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sat Nov 14 14:50:42 2020 -0500
+
+    Complete basic frame of the promotion page.
+
+commit dea5bb6951e8c145c6d89b403ec4602c6b241e9c
+Merge: 53588ad a154589
+Author: unknown <wug13@mcmaster.ca>
+Date:   Sun Nov 15 01:48:03 2020 +0800
+
+    resolve conflict
+
+commit 53588add9a5dd1c8f2a4467eb86bd0c875ce3bd8
+Author: unknown <wug13@mcmaster.ca>
+Date:   Sun Nov 15 01:40:44 2020 +0800
+
+    resolve conflict
+
+commit a15458926f8613ca5dec4d47f32743ec9628f3d4
+Author: CoolguyKeX <kxingjian@gmail.com>
+Date:   Sat Nov 14 03:12:09 2020 -0500
+
+    Start implementing Promotion Page
+
+commit af02990e771d37d1d3a91c145addf0ab9f5ad2b8
+Author: unknown <wug13@mcmaster.ca>
+Date:   Sat Nov 14 04:36:12 2020 +0800
+
+    init reservation subscription editRestaurant page
+
+commit 563cf2e7b42ff0e70fbba3ac05564142b2238b23
+Author: unknown <wug13@mcmaster.ca>
+Date:   Fri Nov 13 03:41:18 2020 +0800
+
+    update header.js
+
+commit 2af72f71d58cd62d1971ab0e08ae397f9968d99f
+Author: unknown <wug13@mcmaster.ca>
+Date:   Fri Nov 13 03:21:31 2020 +0800
+
+    update header
+
+commit c821d3694ded75fd0e999fc53713353fc3f3a15a
+Author: unknown <wug13@mcmaster.ca>
+Date:   Fri Nov 13 02:38:26 2020 +0800
+
+    update both menu and review page
+
+commit c2b471114b2b519019cc95acec6ebccbc2fad5f2
+Author: unknown <wug13@mcmaster.ca>
+Date:   Thu Nov 12 12:57:12 2020 +0800
+
+    update menu reservation function
+
+commit 061d3ac06d11adaccf5d1f8413250c3173d9329d
+Author: unknown <wug13@mcmaster.ca>
+Date:   Thu Nov 12 10:42:41 2020 +0800
+
+    update menu page
+
+commit 3d8752459536d5d4e3b376734cc68501dd62882a
+Author: unknown <wug13@mcmaster.ca>
+Date:   Thu Nov 12 06:51:12 2020 +0800
+
+    update review page
+
+commit 9164236b3499acc3d3e8133789050dca282fe72a
+Author: unknown <wug13@mcmaster.ca>
+Date:   Tue Nov 10 12:05:13 2020 +0800
+
+    init review page
+
+commit 7f037a4271aee5b25cdfb80bbfa06ae99aa7d57b
+Author: unknown <wug13@mcmaster.ca>
+Date:   Mon Nov 9 07:33:50 2020 +0800
+
+    update menu page
+
+commit 7a7ea2ccdb55836b473857a7f6056695203cc1c3
+Author: unknown <wug13@mcmaster.ca>
+Date:   Sat Nov 7 01:34:39 2020 +0800
+
+    update project
+
+commit 551eacc0a4394c26aebca0ca08a54072a4bf4b5e
+Author: unknown <wug13@mcmaster.ca>
+Date:   Fri Nov 6 08:29:58 2020 +0800
+
+    update
+
+commit d20a3c0fd108d68789263599660a60f5c231deba
+Author: unknown <wug13@mcmaster.ca>
+Date:   Fri Nov 6 07:56:22 2020 +0800
+
+    update
+
+commit 0d997bf1815d991656651d0bb9d7712944fac623
+Author: unknown <wug13@mcmaster.ca>
+Date:   Fri Nov 6 07:52:21 2020 +0800
+
+    update
+
+commit 4caac432d7eb34691582b063c1833ce437a590dc
+Author: unknown <wug13@mcmaster.ca>
+Date:   Fri Nov 6 07:43:27 2020 +0800
+
+    update
+
+commit 16e42c9521de059878c3d70824de51ade0d5a7e4
+Author: unknown <wug13@mcmaster.ca>
+Date:   Fri Nov 6 07:39:59 2020 +0800
+
+    init project
+
+commit 45cbc6d51c3e26f7508cb1686684e7414e858be5
+Author: Guiye (Josh) Wu <wug13@mcmaster.ca>
+Date:   Fri Nov 6 07:21:48 2020 +0800
+
+    Initial commit

@@ -1,0 +1,2 @@
+Xingjian Ke - kex1: Implementation of home(restaurant) page[#Find a restaurant], Promotion Page[#Manage Promotion]
+Guiye Wu - wug13: Implementation of subscription Page, Review Page, Reservation Page, Menu Page[#Reserve seat, Create reviews on restaurant, Subscribe restaurant], Edit a restaurant Page[Edit Restaurant detail exclusive only for restaurant owner]
